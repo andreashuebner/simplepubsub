@@ -1,1 +1,2 @@
-<h1>Simple Pub Sub - Minimalistic JavaScript PubSub implementation</h1>
+<h1>Simple Pub Sub<h1><br>
+<h2>Minimalistic JavaScript PubSub Implementation</h2>

@@ -5,8 +5,13 @@
 
 Examples to use:<br>
 
-To subsribe an object to an event with a callback function, just use the method exampleobject.spson method:<br><br>
+To subsribe an object to an event with a callback function, just use the method exampleobject.spson method:<br>
 
 object1.spson("testevent1",function(evt) {
   //some code here when testevent1 triggered
 });
+
+To unsubsribe an object from an event, just call the spsoff method:<br>
+object1.spsoff("testevent1");
+
+To trigger

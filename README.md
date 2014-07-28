@@ -1,0 +1,1 @@
+<h1>Simple Pub Sub - Minimalistic JavaScript PubSub implementation</h1>

@@ -3,7 +3,7 @@
 <h3>Just include the file sps.js (sps for simplepubsub) or sps.min.js and your are ready to go.<br><br>
 
 
-Examples to use:<br>
+Examples to use:
 
 To subsribe an object to an event with a callback function, just use the method exampleobject.spson method:<br>
 
